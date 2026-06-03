@@ -9,7 +9,7 @@ env:
   # GitHub 镜像仓库地址
   REGISTRY: ghcr.io
   # 镜像完整名称（【注意】GitHub 要求镜像名必须全部小写，请把下面的 koala73 改为你的 GitHub 用户名）
-  IMAGE_TAG: ghcr.io/koala73/worldmonitor:latest
+  IMAGE_TAG: ghcr.io/binglu895/worldmonitor:latest
 
 jobs:
   build-and-push:
